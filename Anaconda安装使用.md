@@ -4,7 +4,7 @@
 
 先休息，再学习[《最愛》周慧敏 1993 - YouTube](https://www.youtube.com/watch?v=EFtYGQmP00Q)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EFtYGQmP00Q?si=DLCij-VgpWu2v63H&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![周慧敏](https://res.cloudinary.com/marcomontalbano/image/upload/v1700201475/video_to_markdown/images/youtube--EFtYGQmP00Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=EFtYGQmP00Q "周慧敏")
 
 [toc]
 
